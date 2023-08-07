@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrMeroo
-- 👀 I’m interested in coding with java script, pytrhon, and c++
+- 👀 I’m interested in coding with java script, python, and c++
 - 🌱 I’m currently learning software engineering at ALX organization
 - 💞️ I’m looking to collaborate on software projects as an internship student to learn more about now a days terndings
 - 📫 How to reach me is via my email ( dromarosamakrdous@gmail.com)
